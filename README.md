@@ -1,4 +1,4 @@
-<h1>Keyword Checker</h1>
+<h1>Source Code Keyword Checker</h1>
       <p>This is a simple PHP script that allows users to check if a list of keywords are present in the source code of a webpage. The user can input the page source code and the list of keywords through a form, and the script will check if all the keywords are present in the source code.</p>
       <h2>Usage</h2>
       <ol>
